@@ -7,10 +7,10 @@ int number2 = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите третье число: ");
 int nubmer3 = int.Parse(Console.ReadLine()!);
 int max = number1;
-{
-    if (number1 > max) max = number1;
-    if (number2 > max) max = number2;
-    if (nubmer3 > max) max = nubmer3;
-}
+
+if (number1 > max) max = number1;
+if (number2 > max) max = number2;
+if (nubmer3 > max) max = nubmer3;
+
 Console.Write("Самое большое число: ");
- Console.WriteLine(max);
+Console.WriteLine(max);
