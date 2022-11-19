@@ -1,0 +1,30 @@
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\bin\Debug\net7.0\Task 29a.exe
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\bin\Debug\net7.0\Task 29a.deps.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\bin\Debug\net7.0\Task 29a.runtimeconfig.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\bin\Debug\net7.0\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\bin\Debug\net7.0\Task 29a.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.csproj.AssemblyReference.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.AssemblyInfoInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.AssemblyInfo.cs
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.csproj.CoreCompileInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\refint\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\Task 29a.genruntimeconfig.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task 29a\obj\Debug\net7.0\ref\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\bin\Debug\net7.0\Task 29a.exe
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\bin\Debug\net7.0\Task 29a.deps.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\bin\Debug\net7.0\Task 29a.runtimeconfig.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\bin\Debug\net7.0\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\bin\Debug\net7.0\Task 29a.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.csproj.AssemblyReference.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.AssemblyInfoInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.AssemblyInfo.cs
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.csproj.CoreCompileInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\refint\Task 29a.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\Task 29a.genruntimeconfig.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar04\Task29a\obj\Debug\net7.0\ref\Task 29a.dll
