@@ -1,0 +1,15 @@
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.csproj.AssemblyReference.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.AssemblyInfoInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.AssemblyInfo.cs
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.csproj.CoreCompileInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\bin\Debug\net7.0\Task41.exe
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\bin\Debug\net7.0\Task41.deps.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\bin\Debug\net7.0\Task41.runtimeconfig.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\bin\Debug\net7.0\Task41.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\bin\Debug\net7.0\Task41.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\refint\Task41.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\Task41.genruntimeconfig.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task41\obj\Debug\net7.0\ref\Task41.dll
