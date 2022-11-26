@@ -1,0 +1,15 @@
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\bin\Debug\net7.0\Task43.exe
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\bin\Debug\net7.0\Task43.deps.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\bin\Debug\net7.0\Task43.runtimeconfig.json
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\bin\Debug\net7.0\Task43.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\bin\Debug\net7.0\Task43.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.csproj.AssemblyReference.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.AssemblyInfoInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.AssemblyInfo.cs
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.csproj.CoreCompileInputs.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\refint\Task43.dll
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.pdb
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\Task43.genruntimeconfig.cache
+C:\Users\novik\OneDrive\Рабочий стол\gittest\LangProg\Seminar06\Task43\obj\Debug\net7.0\ref\Task43.dll
